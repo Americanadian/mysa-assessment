@@ -10,13 +10,16 @@ The requirements analysis can be found in the `documents` folder located inside 
 
 You can find the image files inside the `images` folder located inside this project.
 
-![Intro screen](images/Intro Screen.png "Intro Screen")
+![Intro screen](images/Intro_Screen.png "Intro_Screen")
+
 This is the intro screen from which you start the app and toaster.
 
 ![Intro screen](images/screen2.png "Main Menu")
+
 This screen is the main menu that contains customizable options for your toasting expereince.
 
 ![Intro screen](images/screen3.png "Timer")
+
 Here we have a countdown timer screen.
 
 ### 3. Unit Testing
