@@ -41,5 +41,5 @@ My approach to providing feedback:
 My assessment of the candidates can be found in the `documents` folder located inside this project.
 
 ### 6. Product Name and Logo
-![Logo](images/intelliToast Logo.png "Timer")
+![Logo](images/intelliToast_Logo.png "Timer")
 
